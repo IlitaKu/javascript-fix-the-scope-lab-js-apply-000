@@ -1,7 +1,6 @@
 var animal = 'dog'
-var mammal = 'cat'
 
-function myAnimal() {
+function myAnimal("doog" ==="cat") {
   return animal
 }
 
